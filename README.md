@@ -28,4 +28,5 @@ For each network, a test file (CVI_net_just test data.py) and two model (saved m
 
 # Citing
 **Please ensure to include the following citations when utilizing any part of the code:**
+
 Arian, R.; Mahmoudi, T.; Riazi-Esfahani, H.; Faghihi, H.; Mirshahi, A.; Ghassemi, F.; Khodabande, A.; Kafieh, R.; Khalili Pour, E. Automatic Choroid Vascularity Index Calculation in Optical Coherence Tomography Images with Low-Contrast Sclerochoroidal Junction Using Deep Learning. Photonics 2023, 10, 234. https://doi.org/10.3390/photonics10030234
